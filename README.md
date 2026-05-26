@@ -11,8 +11,7 @@ có thông tin tương ứng.
 2. Bổ sung ratings: Thêm dữ liệu rating cho một nhóm users mới - bao gồm cả
 những users đã thấy giao diện belief elicitation nhưng không trả lời.
 
-This repository only contains the project reports and code for my two university courses: **Machine Learning** and **Data Visualisation**
-Each subject include 2 files: code and report
+This repository only contains the project reports and code files for my two university courses: **Machine Learning** and **Data Visualisation**
 
 # PART 1 - MACHINE LEARNING
 # MovieLens Belief 2024 — Collaborative Filtering Comparison
